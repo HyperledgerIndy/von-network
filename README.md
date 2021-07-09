@@ -1,4 +1,4 @@
-bash ```
+```bash
 ./manage start 18.218.22.199 WEB_SERVER_HOST_PORT=80 "LEDGER_INSTANCE_NAME=CrowdPoint Ledger" "INFO_SITE_URL=www.kmindz.io" "INFO_SITE_TEXT=Konnected Mindz Technologies" &
 ```
 
