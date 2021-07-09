@@ -1,3 +1,7 @@
+bash ```
+./manage start 18.218.22.199 WEB_SERVER_HOST_PORT=80 "LEDGER_INSTANCE_NAME=CrowdPoint Ledger" "INFO_SITE_URL=www.kmindz.io" "INFO_SITE_TEXT=Konnected Mindz Technologies" &
+```
+
 # VON Network
 
 A portable development level Indy Node network, including a Ledger Browser. The Ledger Browser (for example the BC Gov's [Ledger for the GreenLight Demo Application](http://greenlight.bcovrin.vonx.io/)) allows a user to see the status of the nodes of a network and browse/search/filter the Ledger Transactions.
